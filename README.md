@@ -1,1 +1,1 @@
-# .github
+# Mobile Testing Solutions Ltd
